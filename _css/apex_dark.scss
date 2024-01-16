@@ -1,29 +1,29 @@
 //
-// Voron Customizations
+// Apex Invent Style Sheet
 //
 
 //
 // Color Definitions
 //
-$grey-dk-400: #2c2f33;
+$grey-dk-400: #1f1f21;
 $grey-dk-500: #23272a;
-$red-400: #bd0f0f;
-$red-500: #760a0a;
-$voron-red-30: #dd6670;
-$voron-red-40: #ff3341;
-$voron-red-50: #ff0213;
-$voron-red-60: #cc000e;
-$voron-red-70: #99000a;
-$voron-red-80: #dd0007;
-$voron-link-purple: #661aff;
+$blue-400: #00bbff;
+$blue-500: #0091c6;
+$apex-blue-30: #5ed4ff;
+$apex-blue-40: #2bc6ff;
+$apex-blue-50: #00bbff;
+$apex-blue-60: #00a3df;
+$apex-blue-70: #0089bb;
+$apex-blue-80: #0076a1;
+$apex-link-purple: #661aff;
 
 //
 // Body Elements
 //
 $body-background-color: $grey-dk-400;
-$body-heading-color: $voron-red-60;
-$btn-primary-color: $voron-red-40;
-$link-color: $voron-red-40;
+$body-heading-color: $apex-blue-60;
+$btn-primary-color: $apex-blue-40;
+$link-color: $apex-blue-40;
 
 // Copied from JTD dark theme
 $sidebar-color: $grey-dk-500;
@@ -216,7 +216,7 @@ $feedback-color: darken($sidebar-color, 3%);
 } // literal.string.escape //
 .highlight .sh {
   color: #93a1a1;
-} // literal.string.heredoc //
+} // literal.string.heblueoc //
 .highlight .si {
   color: #2aa198;
 } // literal.string.interpol //
