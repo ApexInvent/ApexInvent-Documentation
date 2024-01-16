@@ -6,7 +6,7 @@ nav_order: 1
 
 # Apex Invent Open Source Documentation
 
-# Welcome to the Apex Invent Universe!
+<p class="fw-700">Welcome to the Apex Invent Universe!</p>
 
 This is the official Apex Invent Documentation site. 
 
