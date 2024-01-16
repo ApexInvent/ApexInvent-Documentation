@@ -22,4 +22,4 @@ To guarantee optimal performance and support, we highly recommend adhering stric
 
 ---
 
-[Visit our online store for everything you need](https://apexinvent.co.za/)
+[Visit our online store for all the hardware you will need!](https://apexinvent.co.za/)
