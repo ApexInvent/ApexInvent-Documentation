@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Apex Flow Toolhead Assembly Instructions
+description: This is the official documentation for the Apex Flow toolhead.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://apex-flow.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
