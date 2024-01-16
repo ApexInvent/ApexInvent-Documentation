@@ -17,5 +17,5 @@ aux_links:
 
 aux_links_new_tab: true
 
-color_scheme: _sass/color_schemes/apex_dark.scss
+color_scheme: apex_dark
 
