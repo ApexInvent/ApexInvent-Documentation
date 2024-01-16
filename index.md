@@ -18,8 +18,8 @@ To guarantee optimal performance and support, we highly recommend adhering stric
 
 
 
-![](./images/Voron2.jpg)
+![](./assets/apexflow.png)
 
 ---
 
-[Credits](./credits.md)
+[Visit our online store for everything you need](https://apexinvent.co.za/)
