@@ -9,13 +9,13 @@ nav_order: 1
 
 ### Fasteners
 
-| head1        | head two          | three |
+| Item        | QTY         | Link |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| M3 Sonic/Heatset inserts | 20x | nice  |
+| | good and plenty   | nice  |
+|| good `oreos`      | hmm   |
+|| good `zoute` drop | yumm  |
 
 
-M3 Sonic/Heatset inserts
+
 
