@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BOM
-parent: apexflow
+parent: Apex Flow
 nav_order: 1
 ---
 
