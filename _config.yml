@@ -5,6 +5,6 @@ theme: just-the-docs
 url: https://apex-flow.github.io
 
 logo: "/assets/apex_invent_logo.png"
-
+favicon_ico: "/assets/apex_invent_icon.ico"
 aux_links:
   Apex Invent Website: https://apexinvent.co.za/
