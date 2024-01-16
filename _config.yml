@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://apexinvent.github.io/ApexFlow-Toolhead-Documentation/
 
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+
 logo: "/assets/apex_invent_logo.png"
 
 favicon_ico: "/assets/apex_invent_icon.ico"
