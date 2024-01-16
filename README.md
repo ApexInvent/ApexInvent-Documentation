@@ -1,5 +1,6 @@
 
 ![](./assets/apexlightningiconsmall.png)
+<br>
 Please visit the [documentation site](https://apexinvent.github.io/ApexInvent-Documentation/) for everything Apex Invent open source!
 <br>
 <br>
