@@ -3,10 +3,7 @@ layout: default
 title: Apex Invent Open Source Documentation
 nav_order: 1
 ---
-
-# Apex Invent Open Source Documentation
-
-<p class="fw-700">Welcome to the Apex Invent Universe!</p>
+# Welcome to the Apex Invent Universe!
 
 This is the official Apex Invent Documentation site. 
 
