@@ -6,7 +6,7 @@ nav_order: 4
 
 # Join us on social media
 ---
-These are the best places to get regular updates in the world of APex Invent!
+These are the best places to get regular updates in the world of Apex Invent!
 <br>
 <br>
 [Discord](https://discord.gg/vhEEsyMe3b)
