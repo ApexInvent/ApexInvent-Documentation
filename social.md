@@ -8,6 +8,7 @@ nav_order: 4
 ---
 These are the best places to get regular updates in the world of APex Invent!
 <br>
+<br>
 [Discord](https://discord.gg/vhEEsyMe3b)
 <br>
 [Whatsapp](https://chat.whatsapp.com/KzhH6vuGNllLFxyq71jtEv)
