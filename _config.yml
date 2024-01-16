@@ -11,9 +11,9 @@ logo: "/assets/apex_invent_logo.png"
 
 favicon_ico: "/assets/apex_invent_icon.ico"
 
-search_enabled: false
+search_enabled: true
 aux_links:
-  Website: https://apexinvent.co.za/
+ Apex Invent Online Store: https://apexinvent.co.za/
 
 aux_links_new_tab: true
 
