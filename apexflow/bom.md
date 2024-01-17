@@ -39,6 +39,11 @@ You can purchase a [Electronics Kit](https://apexinvent.co.za/) directly from ou
 The Can Bus board can be found [here](https://apexinvent.co.za/products/bigtreetech-ebb-36-can-bus-board) on our store.
 
 ---
+### Mechanical
+The Apex Flow is designed around the BMG-style dual drive gearsets any BMG or BMG clone dual drive gear kits can be used, however, we have seen some clones have different tolerances and may need modification to the extruder to function correctly.
+The gearset we recommend can be found [here](https://apexinvent.co.za/products/trianglelab-dual-drive-diy-extruder-kit) on our store.
+
+---
 ### Hotend
 The recommended hotend for the flow is our E3D Volcano assembly, however, the below list can be substituted by a Pheatus Rapido HF or similar hotend that has the same mounting style as the E3D V6 and has a similar nozzle tip to mount distance to the volcano (around 71mm from the top of the mount to the tip of the nozzle)
 
