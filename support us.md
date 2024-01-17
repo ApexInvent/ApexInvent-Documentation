@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Want to support us?
-nav_order: 5
+nav_order: 6
 ---
 
 # How to support us
