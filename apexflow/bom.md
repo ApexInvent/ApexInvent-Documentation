@@ -34,7 +34,8 @@ You can purchase a [Fastener Kit](https://apexinvent.co.za/) directly from our s
 | (Optional) Can Bus Board | 1x | 
 
 You can purchase a [Electronics Kit](https://apexinvent.co.za/) directly from our store.
-A Can Bus board can be found [here](https://apexinvent.co.za/products/bigtreetech-ebb-36-can-bus-board).
+<br>
+The Can Bus board can be found [here](https://apexinvent.co.za/products/bigtreetech-ebb-36-can-bus-board) on our store.
 
 ---
 ### Hotend
