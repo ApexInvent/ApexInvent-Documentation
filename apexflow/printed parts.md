@@ -9,7 +9,7 @@ nav_order: 2
 
 The STL files as well as the CAD files for the flow can be found [here](https://apexinvent.co.za/).
 
-We recommend our MJF-printed [Nylon kit](https://apexinvent.co.za/) for the main parts and ABS for the accent parts as well as the mount.
+The main parts of the flow can be printed with FDM, however, we recommend our MJF-printed [Nylon kit](https://apexinvent.co.za/) for the main parts and ABS for the accent parts as well as the mount.
 
 ---
 
