@@ -2,7 +2,7 @@ title: Apex Invent Open Source Documentation
 description: This is the official documentation for the Apex Flow toolhead.
 theme: just-the-docs
 
-url: https://apexinvent.github.io/ApexInvent-Documentation/
+url: https://docs.apexinvent.co.za/
 
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
