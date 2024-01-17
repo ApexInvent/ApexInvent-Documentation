@@ -39,7 +39,6 @@ The Can Bus board can be found [here](https://apexinvent.co.za/products/bigtreet
 
 ---
 ### Hotend
-<br>
 The recommended hotend for the flow is our E3D Volcano assembly, however the below list can be substituted by a Pheatus Rapido HF or similar hotend that has the same mounting style as the E3D V6 and has a similar nozzle tip to mount distance to the volcano (around 71mm from the top of the mount to the tip of the nozzle)
 
 | Item        | QTY         
