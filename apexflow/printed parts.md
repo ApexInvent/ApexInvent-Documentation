@@ -16,9 +16,10 @@ The main parts of the flow can be printed with FDM, however, we recommend our MJ
 ## Printed parts preview
 
 ### Main parts
+![](./assets/apexflowmain.png)
 
-
-### Accent Parts and mount
+### Accent parts and mount
+![](./assets/apexflowaccent.png)
 
 ---
 
