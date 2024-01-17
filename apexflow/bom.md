@@ -21,6 +21,8 @@ nav_order: 1
 | M3 Socket head cap screws 8mm | 2x | 
 | M3 Socket head cap screws 6mm | 3x | 
 
+You can purchase a [Fastener Kit](https://apexinvent.co.za/) directly from our store.
+
 
 
 
