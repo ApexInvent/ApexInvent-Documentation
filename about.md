@@ -33,4 +33,3 @@ To get your own serial number, all you have to do after completing an Apex Inven
 
 ---
 
-### Next: [Choosing a Printer / Extruder](./hardware.md)
