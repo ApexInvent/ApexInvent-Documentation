@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # About Apex Invent
 
-Founded in the early months of 2023, Apex Invent was born out of a passion for 3D printing and a want to create a distinctively South African 3D printer. Our journey has been a dynamic one, marked by both triumphs in terms of development and other more severe challenges, leading us to a strategic reimagining of our core business and mission leading us to a much-needed restart to our endeavor free from any 3rd party involvement.
+Founded in the early months of 2023, Apex Invent was born out of a passion for 3D printing and a want to create a distinctively South African 3D printer. Our journey has been a dynamic one, marked by both triumphs in terms of development and other more severe challenges, leading us to a strategic reimagining of our core business and mission leading us to a much-needed restart to our endeavor, free from any 3rd party involvement.
 
 At the heart of Apex Invent lies a commitment to openness and collaboration. Every development we achieve is now proudly open source, offering our community a source of pride. While our core development and open source initiative is currently a one-person endeavor, our vision is to transform this into a thriving community effort.
 
