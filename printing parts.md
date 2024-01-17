@@ -11,13 +11,13 @@ In this guide, we will guide you through the recommended materials & print setti
 ## Print Settings<br>
 We recommend these settings with 0.4mm nozzles, due to thin walls in some cases we do not recommend larger nozzles.
 
-Layer height: 0.2mm
-Extrusion width: 0.4mm (forced)
-Infill percentage: 35%-40%
-Infill type: grid, gyroid, honeycomb, triangle, or cubic
-Wall count: 4-6
-Solid top/bottom layers: 5
-Supports: generally our parts are designed to be printed without supports, but in some cases like the Apex Flow supports may be needed due to the design not being made with FDM in mind.
+Layer height: 0.2mm<br>
+Extrusion width: 0.4mm (forced)<br>
+Infill percentage: 35%-40%<br>
+Infill type: grid, gyroid, honeycomb, triangle, or cubic<br>
+Wall count: 4-6<br>
+Solid top/bottom layers: 5<br>
+Supports: generally our parts are designed to be printed without supports, but in some cases like the Apex Flow supports may be needed due to the design not being made with FDM in mind.<br>
 
 ## Materials
 When deciding what materials to use when printing Apex Invent parts, some criteria need to be considered.
