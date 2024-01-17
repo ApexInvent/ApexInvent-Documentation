@@ -23,6 +23,29 @@ nav_order: 1
 
 You can purchase a [Fastener Kit](https://apexinvent.co.za/) directly from our store.
 
+---
+### Electronics
 
+| Item        | QTY         
+|:-------------|:------------------|
+| 5015 Blower Fan | 1x | 
+| 3010 Radial Fan | 2x | 
+| RGB Strip cut down to 3 LEDs | 3x | 
+| (Optional) Can Bus Board | 1x | 
 
+You can purchase a [Electronics Kit](https://apexinvent.co.za/) directly from our store.
 
+---
+### Hotend
+
+| Item        | QTY         
+|:-------------|:------------------|
+| E3D V6 Heatsink | 1x | 
+| E3D Volcano Brass heater block | 1x | 
+| E3D Bi-Metal Heat Break | 1x | 
+| E3D Volcano CHT style nozzle | 1x | 
+| E3D Volcano Silicone Sock | 1x |
+| 50w Heater Cartridge | 1x |
+| 100K Thermistor | 1x |
+
+You can purchase a [Hotend Kit](https://apexinvent.co.za/products/volcano-ultimate-high-flow-hotend-bundle) directly from our store.
