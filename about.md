@@ -13,7 +13,7 @@ Our [Online Store](https://apexinvent.co.za/) exists to keep our developments al
 
 Apex Invent is not just a company; it's a collaborative space where innovation meets community spirit. Join us as we continue to push the boundaries of 3D printing technology, proudly shaping the future of additive manufacturing in South Africa.
 
-Here's to innovation, openness, and community welcome to Apex Invent!
+Here's to innovation, openness, and community - welcome to Apex Invent!
 
 
 ### Motion Systems
