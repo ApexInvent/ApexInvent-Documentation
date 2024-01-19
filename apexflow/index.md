@@ -15,7 +15,7 @@ If you find something unclear and would like clarification, contact us on one of
 
 If you need more help and are not there already, please join our [Discord](https://discord.gg/vhEEsyMe3b)!
 
-![](./assets/apexflow.png)
+![](./assets/apexlogodrawn.png)
 
 
 
