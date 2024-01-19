@@ -32,6 +32,7 @@ You can purchase a [Fastener Kit](https://apexinvent.co.za/) directly from our s
 | 3010 Radial Fan | 2x | 
 | RGB Strip cut down to 3 LEDs | 3x | 
 | Biqu Micro Probe | 1x | 
+| Nema14 Pancake stepper (Round) | 1x | 
 | (Optional) Can Bus Board | 1x | 
 
 You can purchase a [Electronics Kit](https://apexinvent.co.za/) directly from our store.
