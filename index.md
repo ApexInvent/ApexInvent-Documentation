@@ -15,7 +15,7 @@ To guarantee optimal performance and support, we highly recommend adhering stric
 
 
 
-![](./assets/apexflow.png)
+![](./assets/apexlogo.png)
 
 ---
 
